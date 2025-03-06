@@ -1,3 +1,3 @@
 # Certificates
 
-Certificates from courses and organizations I have earned.
+Certificates I have earned from organisations and courses.
